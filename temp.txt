@@ -1,8 +1,6 @@
 Making modification on branch
 Add new branch br0
-Add new branch master
-Add new branch master
-Add new branch br1
+Add new branch br2
 
 Hi, Hello.. hw r u?
 sup
